@@ -1,4 +1,4 @@
-# 36202-proj1
+# 36202-project1
 My first ever R project. 
 
 Summer 2025 CMU 36-202
