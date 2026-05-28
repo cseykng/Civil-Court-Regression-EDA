@@ -1,6 +1,6 @@
-# 36202-project1
-My first ever R project. 
+# Civil-Court-Regression-EDA
+My practice using a multi-linear regression model to estimate financial rewards from a civil court case dataset. 
 
-Summer 2025 CMU 36-202
+Performed a natural logarithmic data transformation.
 
-Predicting award money in civil court cases using EDA.
+Used VIF to check multicollinearity, which was minimal (at <2.5), and then evaluated the resulting Q-Q plots to verify assumptions.
